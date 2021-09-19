@@ -15,3 +15,9 @@ Berisi basic command-line pada Linux. Terdapat penjelasan pada setiap command-ny
 
 [Regexr](https://regexr.com/)<br>
 Sejenis Sandbox untuk regular expression. Terdapat penjelasan secara detail dari regex yang ditulis. Serta terdapat cheatsheet dan referensi dari komunitas untuk memudahkan dalam menggunakan regex.
+
+[Why Linux is better than Windows or macOS for security](https://www.computerworld.com/article/3252823/why-linux-is-better-than-windows-or-macos-for-security.html)<br>
+Diskusi penjelasan mengenai security pada beberapa sistem operasi dan mengapa lebih aman. Hal yang menarik yang saya dapatkan, Linux merupakan sistem operasi open source. Walaupun code-nya bisa dilihat siapapun dan mencari celahnya, tetapi orang lain juga bisa membantu untuk memastikan tidak ada bug yang mengancam security.
+
+[Learn C Programming](https://www.programiz.com/c-programming)<br>
+Tutorial bahasa pemrograman C dari dasar. Mulai dari variabel, data type, operator, hingga pointer dan struktur data pada C. Juga terdapat contoh-contoh program yang sering digunakan seperti menghitung KPK dan FPB yang ditulis dalam bahasa C.
