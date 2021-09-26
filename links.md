@@ -21,3 +21,6 @@ Diskusi penjelasan mengenai security pada beberapa sistem operasi dan mengapa le
 
 [Learn C Programming](https://www.programiz.com/c-programming)<br>
 Tutorial bahasa pemrograman C dari dasar. Mulai dari variabel, data type, operator, hingga pointer dan struktur data pada C. Juga terdapat contoh-contoh program yang sering digunakan seperti menghitung KPK dan FPB yang ditulis dalam bahasa C.
+
+[Linux File System](https://www.javatpoint.com/linux-file-system)<br>
+Penjelasan mengenai struktur linux file system. Juga fitur-fitur dan tipe dari linux cile system.
