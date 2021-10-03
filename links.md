@@ -24,3 +24,9 @@ Tutorial bahasa pemrograman C dari dasar. Mulai dari variabel, data type, operat
 
 [Linux File System](https://www.javatpoint.com/linux-file-system)<br>
 Penjelasan mengenai struktur linux file system. Juga fitur-fitur dan tipe dari linux cile system.
+
+[Little and Big Endian Mystery](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
+Penjelasan perbedaan cara penyimpanan memori dengan little endian dan big endian. Terdapat contoh program dan visualisasi gambar yang memudahkan untuk memahami konsep tersebut.
+
+[C - Apa itu Pointer?](https://www.petanikode.com/c-pointer/)<br>
+Penjelasan mengenai pointer dan penggunaannya dalam bahasa pemrograman C. Serta terdapat contoh-contoh codenya.
