@@ -30,3 +30,6 @@ Penjelasan perbedaan cara penyimpanan memori dengan little endian dan big endian
 
 [C - Apa itu Pointer?](https://www.petanikode.com/c-pointer/)<br>
 Penjelasan mengenai pointer dan penggunaannya dalam bahasa pemrograman C. Serta terdapat contoh-contoh codenya.
+
+[Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory)<br>
+Penjelasan mengenai virtual memory.
