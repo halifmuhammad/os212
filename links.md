@@ -33,3 +33,9 @@ Penjelasan mengenai pointer dan penggunaannya dalam bahasa pemrograman C. Serta 
 
 [Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory)<br>
 Penjelasan mengenai virtual memory.
+
+[Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/#processes_threads_time-slicing)<br>
+Penjelasan mengenai concurrency. Serta terdapat contoh-contoh pseudocodenya. Serta visualisasi yang mempermudah dalam memahami materi.
+
+[fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Penjelasan mengenai fork system call. Terdapat contoh code.

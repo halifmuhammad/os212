@@ -4,4 +4,4 @@ permalink: /TIPS/
 
 # TIPS
 
-1. GSGS
+1. 
