@@ -39,3 +39,6 @@ Penjelasan mengenai concurrency. Serta terdapat contoh-contoh pseudocodenya. Ser
 
 [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Penjelasan mengenai fork system call. Terdapat contoh code.
+
+[Locks and Synchronization](https://web.mit.edu/6.005/www/fa15/classes/23-locks/)<br>
+Penjelasan lock dan synchronization. Terdapat contoh code dan ilustrasi sederhana untuk memudahkan memahami materi. Serta gambarannya berdasarkan kehidupan sehari-hari.
