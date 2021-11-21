@@ -45,3 +45,6 @@ Penjelasan lock dan synchronization. Terdapat contoh code dan ilustrasi sederhan
 
 [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)<br>
 Penjelasan mengenai scheduling pada multiple processor.
+
+[RAID (Redundant Array Independent Disk)](https://imambakti18.wordpress.com/raid-redundant-array-independent-disk/)<br>
+Penjelasan mengenai RAID.
